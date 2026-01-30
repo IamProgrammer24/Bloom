@@ -1,5 +1,5 @@
 import { Zap, ChevronRight, Sun } from "lucide-react";
-import cardBg from "../assets/sunrise.png"
+import cardBg from "../assets/sunrise.PNG";
 
 const MemberRates = () => {
     return (
